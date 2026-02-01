@@ -33,6 +33,7 @@ The AI then conducts a smart interview (5–8 questions) covering:
 ### 2. AI-Generated Action Plan
 
 **Purpose:** To generate a realistic, time-boxed action plan that is backed by milestones, timelines, and priorities.
+
 **The AI converts:** Goal → Milestones → Weekly Plan → Daily Tasks
 
 Each task includes:
@@ -44,7 +45,7 @@ Each task includes:
 - Due date
 - Status (In Progress/Completed)
 
-### Daily Focus View
+### 3. Daily Focus View
 
 **Purpose:** To reduce cognitive overload and improve execution.
 
@@ -54,7 +55,7 @@ Psychology-driven interface showing:
 - Progress bar toward the main goal
 - Why this task matters (1 AI-generated line)
 
-### Progress & Goal Visibility
+### 4. Progress & Goal Visibility
 
 **Purpose:** To get clear visibility of progress and goals.
 
@@ -64,7 +65,7 @@ Users can clearly see:
 - Completed vs remaining milestones
 - Time remaining compared to the current pace
 
-### Export & Share
+### 5. Export & Share
 
 **Purpose:** To keep users motivated toward their goals by sharing with friends and family.
 
