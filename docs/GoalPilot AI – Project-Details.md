@@ -74,3 +74,16 @@ Users can:
 - Export plans as JSON or CSV
 - Generate Notion-ready formats
 - Share a read-only public goal link
+
+## User Flow
+
+- User signs up or logs in
+- User enters a goal (High Level Goal)
+- AI asks follow-up questions (Multiple Choice or Custom)
+- AI generates a plan (Goal → Milestone → Weekly → Daily )
+- The user can edit the plan if the user think is not suitable for him
+- User sees daily, weekly tasks, & milestones.
+- The user also edits daily, weekly tasks, and milestones if needed.
+- user can see top 3 task daily for today in the focus view
+- User marks task complete
+- Progress updates
